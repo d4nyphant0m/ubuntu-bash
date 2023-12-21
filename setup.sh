@@ -21,5 +21,7 @@ wait
 sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)" &
 wait
 
+zsh
+
 # Output message
 echo "okeeeletsgoooo"
