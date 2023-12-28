@@ -15,7 +15,7 @@ sudo apt-get install git -y
 Installing Zip
 
 ```bash
-sudo apt-get install git-all -y
+sudo apt-get install zip -y
 ```
 
 Installing zsh
